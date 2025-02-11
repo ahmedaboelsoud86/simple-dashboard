@@ -629,7 +629,7 @@
                                 <button class="dropdown-item d-flex align-items-center" type="button"
                                     data-coreui-theme-value="dark">
                                     <svg class="icon icon-lg me-3">
-                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#nbmnbm') }}">
+                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#moon') }}">
                                         </use>
                                     </svg><span> Dark</span>
                                 </button>
@@ -638,7 +638,7 @@
                                 <button class="dropdown-item d-flex align-items-center active" type="button"
                                     data-coreui-theme-value="auto">
                                     <svg class="icon icon-lg me-3">
-                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#tyutyu') }}">
+                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#contrast') }}">
                                         </use>
                                     </svg>Auto
                                 </button>
@@ -724,7 +724,7 @@
                         </li>
                     </ol>
                 </nav>
-                
+
                         <div class="row">
                             <div class="col-md-4 col-xl-4">
                                 <div class="card mb-4 text-white bg-primary-gradient">
@@ -815,7 +815,7 @@
                                 </div>
                             </div>
                         </div>
-                   
+
                 <div class="row">
                     <div class="col-xl-12">
 
