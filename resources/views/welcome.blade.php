@@ -81,30 +81,28 @@
             <li class="nav-item"><a class="nav-link" href="index.html">
                     <svg class="nav-icon">
                         <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#speedometer') }}"></use>
-                    </svg><span data-coreui-i18n="dashboard">Dashboard</span></a></li>
-            <li class="nav-title" data-coreui-i18n="theme">Theme</li>
+                    </svg><span>Dashboard</span></a></li>
+            <li class="nav-title">Theme</li>
             <li class="nav-item"><a class="nav-link" href="colors.html">
                     <svg class="nav-icon">
                         <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#cil-drop') }}"></use>
-                    </svg><span data-coreui-i18n="colors">Colors</span></a></li>
+                    </svg><span>Colors</span></a></li>
             <li class="nav-item"><a class="nav-link" href="typography.html">
                     <svg class="nav-icon">
                         <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#cil-pencil') }}"></use>
-                    </svg><span data-coreui-i18n="typography">Typography</span></a></li>
-            <li class="nav-title" data-coreui-i18n="components">Components</li>
+                    </svg><span>Typography</span></a></li>
+            <li class="nav-title">Components</li>
             <li class="nav-group"><a class="nav-link nav-group-toggle" href="#">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-rich') }}"></use>
-                    </svg><span data-coreui-i18n="base">Base</span></a>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-richss') }}"></use>
+                    </svg><span>Base</span></a>
                 <ul class="nav-group-items compact">
                     <li class="nav-item"><a class="nav-link" href="base/accordion.html"><span class="nav-icon"><span
-                                    class="nav-icon-bullet"></span></span><span
-                                data-coreui-i18n="accordion">Accordion</span></a></li>
+                                    class="nav-icon-bullet"></span></span><span>Accordion</span></a></li>
                     <li class="nav-item"><a class="nav-link" href="base/breadcrumb.html"><span
                                 class="nav-icon"><span class="nav-icon-bullet"></span></span> Breadcrumb</a></li>
                     <li class="nav-item"><a class="nav-link" href="base/calendar.html"><span class="nav-icon"><span
-                                    class="nav-icon-bullet"></span></span><span
-                                data-coreui-i18n="calendar">Calendar</span></a></li>
+                                    class="nav-icon-bullet"></span></span><span>Calendar</span></a></li>
                     <li class="nav-item"><a class="nav-link" href="base/cards.html"><span class="nav-icon"><span
                                     class="nav-icon-bullet"></span></span> Cards</a></li>
                     <li class="nav-item"><a class="nav-link" href="base/carousel.html"><span class="nav-icon"><span
@@ -133,8 +131,8 @@
             </li>
             <li class="nav-group"><a class="nav-link nav-group-toggle" href="#">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                    </svg><span data-coreui-i18n="buttons">Buttons</span></a>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#bnbnvbn') }}"></use>
+                    </svg><span>Buttons</span></a>
                 <ul class="nav-group-items compact">
                     <li class="nav-item"><a class="nav-link" href="buttons/buttons.html"><span
                                 class="nav-icon"><span class="nav-icon-bullet"></span></span> Buttons</a></li>
@@ -149,8 +147,8 @@
             </li>
             <li class="nav-group"><a class="nav-link nav-group-toggle" href="#">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                    </svg><span data-coreui-i18n="forms">Forms</span></a>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#bvcbcvb') }}"></use>
+                    </svg><span>Forms</span></a>
                 <ul class="nav-group-items compact">
                     <li class="nav-item"><a class="nav-link" href="forms/form-control.html"><span
                                 class="nav-icon"><span class="nav-icon-bullet"></span></span> Form Control</a></li>
@@ -184,21 +182,20 @@
                                 class="nav-icon"><span class="nav-icon-bullet"></span></span> Time Picker<span
                                 class="badge bg-danger-gradient ms-auto">PRO</span></a></li>
                     <li class="nav-item"><a class="nav-link" href="forms/layout.html"><span class="nav-icon"><span
-                                    class="nav-icon-bullet"></span></span><span
-                                data-coreui-i18n="layout">Layout</span></a></li>
+                                    class="nav-icon-bullet"></span></span><span>Layout</span></a></li>
                     <li class="nav-item"><a class="nav-link" href="forms/validation.html"><span
-                                class="nav-icon"><span class="nav-icon-bullet"></span></span><span
-                                data-coreui-i18n="validation">Validation</span></a></li>
+                                class="nav-icon"><span
+                                    class="nav-icon-bullet"></span></span><span>Validation</span></a></li>
                 </ul>
             </li>
             <li class="nav-group"><a class="nav-link nav-group-toggle" href="#">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                    </svg><span data-coreui-i18n="icons">Icons</span></a>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#bcbcvb') }}"></use>
+                    </svg><span>Icons</span></a>
                 <ul class="nav-group-items compact">
                     <li class="nav-item"><a class="nav-link" href="icons/coreui-icons-free.html"><span
                                 class="nav-icon"><span class="nav-icon-bullet"></span></span> CoreUI Icons<span
-                                class="badge bg-success ms-auto" data-coreui-i18n="free">Free</span></a></li>
+                                class="badge bg-success ms-auto">Free</span></a></li>
                     <li class="nav-item"><a class="nav-link" href="icons/coreui-icons-brand.html"><span
                                 class="nav-icon"><span class="nav-icon-bullet"></span></span> CoreUI Icons - Brand</a>
                     </li>
@@ -209,8 +206,8 @@
             </li>
             <li class="nav-group"><a class="nav-link nav-group-toggle" href="#">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                    </svg><span data-coreui-i18n="notifications">Notifications</span></a>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#mbnm') }}"></use>
+                    </svg><span>Notifications</span></a>
                 <ul class="nav-group-items compact">
                     <li class="nav-item"><a class="nav-link" href="notifications/alerts.html"><span
                                 class="nav-icon"><span class="nav-icon-bullet"></span></span> Alerts</a></li>
@@ -224,63 +221,62 @@
             </li>
             <li class="nav-item"><a class="nav-link" href="widgets.html">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                    </svg><span data-coreui-i18n="widgets">Widgets</span><span
-                        class="badge bg-info-gradient text-uppercase ms-auto" data-coreui-i18n="new">New</span></a>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#mbnbn') }}"></use>
+                    </svg><span>Widgets</span><span
+                        class="badge bg-info-gradient text-uppercase ms-auto">New</span></a>
             </li>
             <li class="nav-divider"></li>
-            <li class="nav-title" data-coreui-i18n="plugins">
+            <li class="nav-title">
                 Plugins</li>
             <li class="nav-item"><a class="nav-link" href="calendar.html">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                    </svg><span data-coreui-i18n="calendar">Calendar</span><span
-                        class="badge bg-danger-gradient ms-auto">PRO</span></a></li>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#dfsdf') }}"></use>
+                    </svg><span>Calendar</span><span class="badge bg-danger-gradient ms-auto">PRO</span></a></li>
             <li class="nav-item"><a class="nav-link" href="charts.html">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                    </svg><span data-coreui-i18n="charts">Charts</span></a></li>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#cvxc') }}"></use>
+                    </svg><span>Charts</span></a></li>
             <li class="nav-item"><a class="nav-link" href="datatables.html">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#nvbnv') }}"></use>
                     </svg> DataTables<span class="badge bg-danger-gradient ms-auto">PRO</span></a></li>
             <li class="nav-item"><a class="nav-link" href="google-maps.html">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#bvnvbn') }}"></use>
                     </svg> Google Maps<span class="badge bg-danger-gradient ms-auto">PRO</span></a></li>
-            <li class="nav-title" data-coreui-i18n="extras">
+            <li class="nav-title">
                 Extras</li>
             <li class="nav-group"><a class="nav-link nav-group-toggle" href="#">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                    </svg><span data-coreui-i18n="pages">Pages</span></a>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#reter') }}"></use>
+                    </svg><span>Pages</span></a>
                 <ul class="nav-group-items compact">
                     <li class="nav-item"><a class="nav-link" href="login.html" target="_top">
                             <svg class="nav-icon">
-                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                            </svg><span data-coreui-i18n="login">Login</span></a></li>
+                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#cxvxcv') }}"></use>
+                            </svg><span>Login</span></a></li>
                     <li class="nav-item"><a class="nav-link" href="register.html" target="_top">
                             <svg class="nav-icon">
-                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                            </svg><span data-coreui-i18n="register">Register</span></a></li>
+                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#qvvv') }}"></use>
+                            </svg><span>Register</span></a></li>
                     <li class="nav-item"><a class="nav-link" href="404.html" target="_top">
                             <svg class="nav-icon">
-                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                            </svg><span data-coreui-i18n="error404">Error 404</span></a></li>
+                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#bbb') }}"></use>
+                            </svg><span>Error 404</span></a></li>
                     <li class="nav-item"><a class="nav-link" href="500.html" target="_top">
                             <svg class="nav-icon">
-                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                            </svg><span data-coreui-i18n="error500">Error 500</span></a></li>
+                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#bbee') }}"></use>
+                            </svg><span>Error 500</span></a></li>
                 </ul>
             </li>
             <li class="nav-group"><a class="nav-link nav-group-toggle" href="#">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                    </svg><span data-coreui-i18n="apps">Apps</span></a>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#cccccc') }}"></use>
+                    </svg><span>Apps</span></a>
                 <ul class="nav-group-items compact">
                     <li class="nav-group"><a class="nav-link nav-group-toggle" href="#">
                             <svg class="nav-icon">
-                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#22') }}"></use>
                             </svg> Invoicing</a>
                         <ul class="nav-group-items compact">
                             <li class="nav-item"><a class="nav-link" href="apps/invoicing/invoice.html"><span
@@ -290,7 +286,7 @@
                     </li>
                     <li class="nav-group"><a class="nav-link nav-group-toggle" href="#">
                             <svg class="nav-icon">
-                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#wee') }}"></use>
                             </svg> Email</a>
                         <ul class="nav-group-items compact">
                             <li class="nav-item"><a class="nav-link" href="apps/email/inbox.html"><span
@@ -309,11 +305,11 @@
             <li class="nav-item mt-auto"><a class="nav-link" href="https://coreui.io/docs/templates/installation/"
                     target="_blank">
                     <svg class="nav-icon">
-                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                    </svg><span data-coreui-i18n="docs">Docs</span></a></li>
-            <li class="nav-title"><span data-coreui-i18n="systemUtilization">System Utilization</span></li>
+                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#4444') }}"></use>
+                    </svg><span>Docs</span></a></li>
+            <li class="nav-title"><span>System Utilization</span></li>
             <li class="nav-item px-3 pb-2 d-narrow-none">
-                <div class="text-uppercase small fw-bold mb-1" data-coreui-i18n="cpuUsage">CPU Usage</div>
+                <div class="text-uppercase small fw-bold mb-1">CPU Usage</div>
                 <div class="progress progress-thin">
                     <div class="progress-bar bg-info-gradient" role="progressbar" style="width: 25%"
                         aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
@@ -323,7 +319,7 @@
                     348 Processes. 1/4 Cores.</div>
             </li>
             <li class="nav-item px-3 pb-2 d-narrow-none">
-                <div class="text-uppercase small fw-bold mb-1" data-coreui-i18n="memoryUsage">Memory Usage</div>
+                <div class="text-uppercase small fw-bold mb-1">Memory Usage</div>
                 <div class="progress progress-thin">
                     <div class="progress-bar bg-warning-gradient" role="progressbar" style="width: 70%"
                         aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
@@ -331,7 +327,7 @@
                 <div class="small text-body-secondary">11444MB/16384MB</div>
             </li>
             <li class="nav-item px-3 pb-2 mb-3 d-narrow-none">
-                <div class="text-uppercase small fw-bold mb-1" data-coreui-i18n="ssdUsage">SSD Usage</div>
+                <div class="text-uppercase small fw-bold mb-1">SSD Usage</div>
                 <div class="progress progress-thin">
                     <div class="progress-bar bg-danger-gradient" role="progressbar" style="width: 95%"
                         aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
@@ -340,7 +336,7 @@
         </ul>
     </div>
 
-        <!-- Tab panes-->
+    <!-- Tab panes-->
 
     </div>
     <div class="wrapper d-flex flex-column min-vh-100">
@@ -357,11 +353,10 @@
                     <div class="input-group"><span class="input-group-text bg-body-secondary border-0 px-1"
                             id="search-addon">
                             <svg class="icon icon-lg my-1 mx-2 text-body-secondary">
-                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-rich') }}"></use>
+                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-rsssich') }}"></use>
                             </svg></span>
                         <input class="form-control bg-body-secondary border-0" type="text" placeholder="Search..."
-                            aria-label="Search" aria-describedby="search-addon"
-                            data-coreui-i18n="[placeholder]search">
+                            aria-label="Search" aria-describedby="search-addon">
                     </div>
                 </form>
                 <ul class="header-nav d-none d-md-flex ms-auto">
@@ -378,28 +373,28 @@
                                 data-coreui-i18n="notificationsCounter, { 'counter': 5 }">You have 5 notifications
                             </div><a class="dropdown-item" href="#">
                                 <svg class="icon me-2 text-success">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-rich') }}"></use>
-                                </svg><span data-coreui-i18n="newUserRegistered">New user registered</span></a><a
-                                class="dropdown-item" href="#">
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#ss-rich') }}">
+                                    </use>
+                                </svg><span>New user registered</span></a><a class="dropdown-item" href="#">
                                 <svg class="icon me-2 text-danger">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-rich') }}"></use>
-                                </svg><span data-coreui-i18n="userDeleted">User deleted</span></a><a
-                                class="dropdown-item" href="#">
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-sss') }}">
+                                    </use>
+                                </svg><span>User deleted</span></a><a class="dropdown-item" href="#">
                                 <svg class="icon me-2 text-info">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-rich') }}"></use>
-                                </svg><span data-coreui-i18n="salesReportIsReady">Sales report is ready</span></a><a
-                                class="dropdown-item" href="#">
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-sss') }}">
+                                    </use>
+                                </svg><span>Sales report is ready</span></a><a class="dropdown-item" href="#">
                                 <svg class="icon me-2 text-success">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-rich') }}"></use>
-                                </svg><span data-coreui-i18n="newClient">New client</span></a><a class="dropdown-item"
-                                href="#">
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-sss') }}">
+                                    </use>
+                                </svg><span>New client</span></a><a class="dropdown-item" href="#">
                                 <svg class="icon me-2 text-warning">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-rich') }}"></use>
-                                </svg><span data-coreui-i18n="serverOverloaded">Server overloaded</span></a>
-                            <div class="dropdown-header bg-body-tertiary text-body-secondary fw-semibold my-2"
-                                data-coreui-i18n="server">Server</div><a class="dropdown-item d-block py-2"
-                                href="#">
-                                <div class="text-uppercase small fw-semibold mb-1" data-coreui-i18n="cpuUsage">CPU
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-sss') }}">
+                                    </use>
+                                </svg><span>Server overloaded</span></a>
+                            <div class="dropdown-header bg-body-tertiary text-body-secondary fw-semibold my-2">Server
+                            </div><a class="dropdown-item d-block py-2" href="#">
+                                <div class="text-uppercase small fw-semibold mb-1">CPU
                                     Usage</div>
                                 <div class="progress progress-thin">
                                     <div class="progress-bar bg-info-gradient" role="progressbar" style="width: 25%"
@@ -409,7 +404,7 @@
                                     data-coreui-i18n="cpuUsageDescription, { 'number_of_processes': 358, 'number_of_cores': '1/4' }">
                                     348 Processes. 1/4 Cores.</div>
                             </a><a class="dropdown-item d-block py-2" href="#">
-                                <div class="text-uppercase small fw-semibold mb-1" data-coreui-i18n="memoryUsage">
+                                <div class="text-uppercase small fw-semibold mb-1">
                                     Memory Usage</div>
                                 <div class="progress progress-thin">
                                     <div class="progress-bar bg-warning-gradient" role="progressbar"
@@ -418,7 +413,7 @@
                                 </div>
                                 <div class="small text-body-secondary">11444MB/16384MB</div>
                             </a><a class="dropdown-item d-block py-2" href="#">
-                                <div class="text-uppercase small fw-semibold mb-1" data-coreui-i18n="ssdUsage">SSD
+                                <div class="text-uppercase small fw-semibold mb-1">SSD
                                     Usage</div>
                                 <div class="progress progress-thin">
                                     <div class="progress-bar bg-danger-gradient" role="progressbar"
@@ -433,7 +428,8 @@
                             role="button" aria-haspopup="true" aria-expanded="false"><span
                                 class="d-inline-block my-1 mx-2 position-relative">
                                 <svg class="icon icon-lg">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#list-rich') }}">
+                                    </use>
                                 </svg><span
                                     class="position-absolute top-0 start-100 translate-middle p-1 bg-danger rounded-circle"><span
                                         class="visually-hidden">New alerts</span></span></span></a>
@@ -480,15 +476,16 @@
                                         aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </span>
                             </a>
-                            <div class="p-2"><a class="btn btn-outline-primary w-100" href="#"
-                                    data-coreui-i18n="viewAllTasks">View all tasks</a></div>
+                            <div class="p-2"><a class="btn btn-outline-primary w-100" href="#">View all
+                                    tasks</a></div>
                         </div>
                     </li>
                     <li class="nav-item dropdown"><a class="nav-link" data-coreui-toggle="dropdown" href="#"
                             role="button" aria-haspopup="true" aria-expanded="false"><span
                                 class="d-inline-block my-1 mx-2 position-relative">
                                 <svg class="icon icon-lg">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#envelope-open') }}">
+                                    </use>
                                 </svg><span
                                     class="position-absolute top-0 start-100 translate-middle p-1 bg-danger rounded-circle"><span
                                         class="visually-hidden">New alerts</span></span></span></a>
@@ -575,8 +572,8 @@
                                     </div>
                                 </div>
                             </a>
-                            <div class="p-2"> <a class="btn btn-outline-primary w-100" href="#"
-                                    data-coreui-i18n="viewAllMessages">View all messages</a></div>
+                            <div class="p-2"> <a class="btn btn-outline-primary w-100" href="#">View all
+                                    messages</a></div>
                         </div>
                     </li>
                 </ul>
@@ -623,23 +620,26 @@
                                 <button class="dropdown-item d-flex align-items-center" type="button"
                                     data-coreui-theme-value="light">
                                     <svg class="icon icon-lg me-3">
-                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                    </svg><span data-coreui-i18n="light">Light</span>
+                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#cil-sun') }}">
+                                        </use>
+                                    </svg><span>Light</span>
                                 </button>
                             </li>
                             <li>
                                 <button class="dropdown-item d-flex align-items-center" type="button"
                                     data-coreui-theme-value="dark">
                                     <svg class="icon icon-lg me-3">
-                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                    </svg><span data-coreui-i18n="dark"> Dark</span>
+                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#nbmnbm') }}">
+                                        </use>
+                                    </svg><span> Dark</span>
                                 </button>
                             </li>
                             <li>
                                 <button class="dropdown-item d-flex align-items-center active" type="button"
                                     data-coreui-theme-value="auto">
                                     <svg class="icon icon-lg me-3">
-                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#tyutyu') }}">
+                                        </use>
                                     </svg>Auto
                                 </button>
                             </li>
@@ -654,54 +654,59 @@
                                     alt="user@email.com"><span class="avatar-status bg-success"></span></div>
                         </a>
                         <div class="dropdown-menu dropdown-menu-end pt-0">
-                            <div class="dropdown-header bg-body-tertiary text-body-secondary fw-semibold rounded-top mb-2"
-                                data-coreui-i18n="account">Account</div><a class="dropdown-item" href="#">
+                            <div
+                                class="dropdown-header bg-body-tertiary text-body-secondary fw-semibold rounded-top mb-2">
+                                Account</div><a class="dropdown-item" href="#">
                                 <svg class="icon me-2">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                </svg><span data-coreui-i18n="updates">Updates</span><span
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                    </use>
+                                </svg><span>Updates</span><span
                                     class="badge badge-sm bg-info-gradient ms-2">42</span></a><a class="dropdown-item"
                                 href="#">
                                 <svg class="icon me-2">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                </svg><span data-coreui-i18n="messages">Messages</span><span
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                    </use>
+                                </svg><span>Messages</span><span
                                     class="badge badge-sm badge-sm bg-success ms-2">42</span></a><a
                                 class="dropdown-item" href="#">
                                 <svg class="icon me-2">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                </svg><span data-coreui-i18n="tasks">Tasks</span><span
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                    </use>
+                                </svg><span>Tasks</span><span
                                     class="badge badge-sm bg-danger-gradient ms-2">42</span></a><a
                                 class="dropdown-item" href="#">
                                 <svg class="icon me-2">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                </svg><span data-coreui-i18n="comments">Comments</span><span
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                    </use>
+                                </svg><span>Comments</span><span
                                     class="badge badge-sm bg-warning-gradient ms-2">42</span></a>
-                            <div class="dropdown-header bg-body-tertiary text-body-secondary fw-semibold my-2"
-                                data-coreui-i18n="settings">Settings</div><a class="dropdown-item" href="#">
+                            <div class="dropdown-header bg-body-tertiary text-body-secondary fw-semibold my-2">Settings
+                            </div><a class="dropdown-item" href="#">
                                 <svg class="icon me-2">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                </svg><span data-coreui-i18n="profile">Profile</span></a><a class="dropdown-item"
-                                href="#">
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                    </use>
+                                </svg><span>Profile</span></a><a class="dropdown-item" href="#">
+
                                 <svg class="icon me-2">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                </svg><span data-coreui-i18n="settings">Settings</span></a><a class="dropdown-item"
-                                href="#">
-                                <svg class="icon me-2">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                </svg><span data-coreui-i18n="payments">Payments</span><span
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                    </use>
+                                </svg><span>Payments</span><span
                                     class="badge badge-sm bg-secondary-gradient text-dark ms-2">42</span></a><a
                                 class="dropdown-item" href="#">
                                 <svg class="icon me-2">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                </svg><span data-coreui-i18n="projects">Projects</span><span
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                    </use>
+                                </svg><span>Projects</span><span
                                     class="badge badge-sm bg-primary-gradient ms-2">42</span></a>
                             <div class="dropdown-divider"></div><a class="dropdown-item" href="#">
                                 <svg class="icon me-2">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                </svg><span data-coreui-i18n="lockAccount">Lock Account</span></a><a
-                                class="dropdown-item" href="#">
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                    </use>
+                                </svg><span>Lock Account</span></a><a class="dropdown-item" href="#">
                                 <svg class="icon me-2">
-                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                </svg><span data-coreui-i18n="logout">Logout</span></a>
+                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                    </use>
+                                </svg><span>Logout</span></a>
                         </div>
                     </li>
                 </ul>
@@ -710,12 +715,12 @@
         </header>
         <div class="body flex-grow-1">
             <div class="container-lg px-4">
-                <div class="fs-2 fw-semibold" data-coreui-i18n="dashboard">Dashboard</div>
+                <div class="fs-2 fw-semibold">Dashboard</div>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-4">
-                        <li class="breadcrumb-item"><a href="#" data-coreui-i18n="home">Home</a>
+                        <li class="breadcrumb-item"><a href="#">Home</a>
                         </li>
-                        <li class="breadcrumb-item active"><span data-coreui-i18n="dashboard">Dashboard</span>
+                        <li class="breadcrumb-item active"><span>Dashboard</span>
                         </li>
                     </ol>
                 </nav>
@@ -727,7 +732,7 @@
                                     <div class="card-body p-4">
                                         <div class="row">
                                             <div class="col">
-                                                <div class="card-title fs-4 fw-semibold" data-coreui-i18n="sale">
+                                                <div class="card-title fs-4 fw-semibold">
                                                     Sale</div>
                                             </div>
                                             <div class="col text-end text-primary fs-4 fw-semibold">$613.200</div>
@@ -749,18 +754,21 @@
                                 <div class="card mb-4">
                                     <div class="card-body">
                                         <div class="d-flex flex-nowrap justify-content-between">
-                                            <h6 class="card-title text-body-secondary text-truncate"
-                                                data-coreui-i18n="customers">Customers</h6>
+                                            <h6 class="card-title text-body-secondary text-truncate">Customers</h6>
                                             <div class="bg-primary bg-opacity-25 text-primary p-2 rounded ms-2">
                                                 <svg class="icon icon-xl">
-                                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                    <use
+                                                        xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                                    </use>
                                                 </svg>
                                             </div>
                                         </div>
                                         <div class="fs-4 fw-semibold pb-3">44.725</div><small
                                             class="text-danger">(-12.4%
                                             <svg class="icon">
-                                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                <use
+                                                    xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                                </use>
                                             </svg>)</small>
                                     </div>
                                 </div>
@@ -769,18 +777,20 @@
                                 <div class="card mb-4">
                                     <div class="card-body">
                                         <div class="d-flex flex-nowrap justify-content-between">
-                                            <h6 class="card-title text-body-secondary text-truncate"
-                                                data-coreui-i18n="orders">Orders</h6>
+                                            <h6 class="card-title text-body-secondary text-truncate">Orders</h6>
                                             <div class="bg-primary bg-opacity-25 text-primary p-2 rounded ms-2">
                                                 <svg class="icon icon-xl">
-                                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                    <use
+                                                        xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                                    </use>
                                                 </svg>
                                             </div>
                                         </div>
-                                        <div class="fs-4 fw-semibold pb-3">385</div><small
-                                            class="text-success">(17.2%
+                                        <div class="fs-4 fw-semibold pb-3">385</div><small class="text-success">(17.2%
                                             <svg class="icon">
-                                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                <use
+                                                    xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                                </use>
                                             </svg>)</small>
                                     </div>
                                 </div>
@@ -790,7 +800,7 @@
                     <div class="col-xl-8">
                         <div class="card mb-4">
                             <div class="card-body p-4">
-                                <div class="card-title fs-4 fw-semibold" data-coreui-i18n="traffic">Traffic</div>
+                                <div class="card-title fs-4 fw-semibold">Traffic</div>
                                 <div class="card-subtitle text-body-secondary"><span
                                         data-coreui-i18n-date="date, { 'date': '2022, 1, 1'}"
                                         data-coreui-i18n-date-format="{ 'year': 'numeric', 'month': 'long', 'day': 'numeric' }">January
@@ -811,7 +821,7 @@
                             <div class="card-body p-4">
                                 <div class="row">
                                     <div class="col">
-                                        <div class="card-title fs-4 fw-semibold" data-coreui-i18n="users">Users
+                                        <div class="card-title fs-4 fw-semibold">Users
                                         </div>
                                         <div class="card-subtitle text-body-secondary mb-4"
                                             data-coreui-i18n="registeredUsersCounter, { 'counter': '1.232.150' }">
@@ -820,8 +830,10 @@
                                     <div class="col-auto ms-auto">
                                         <button class="btn btn-secondary">
                                             <svg class="icon me-2">
-                                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                            </svg><span data-coreui-i18n="addNewUser">Add new user</span>
+                                                <use
+                                                    xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                                </use>
+                                            </svg><span>Add new user</span>
                                         </button>
                                     </div>
                                 </div>
@@ -831,13 +843,15 @@
                                             <tr class="align-middle">
                                                 <th class="text-center">
                                                     <svg class="icon">
-                                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                        <use
+                                                            xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxwwee') }}">
+                                                        </use>
                                                     </svg>
                                                 </th>
-                                                <th data-coreui-i18n="user">User</th>
-                                                <th class="text-center" data-coreui-i18n="country">Country</th>
-                                                <th data-coreui-i18n="usage">Usage</th>
-                                                <th data-coreui-i18n="activity">Activity</th>
+                                                <th>User</th>
+                                                <th class="text-center">Country</th>
+                                                <th>Usage</th>
+                                                <th>Activity</th>
                                                 <th></th>
                                             </tr>
                                         </thead>
@@ -845,21 +859,21 @@
                                             <tr class="align-middle">
                                                 <td class="text-center">
                                                     <div class="avatar avatar-md"><img class="avatar-img"
-                                                            src="assets/img/avatars/1.jpg"
-                                                            alt="user@email.com"><span
+                                                            src="assets/img/avatars/1.jpg" alt="user@email.com"><span
                                                             class="avatar-status bg-success"></span></div>
                                                 </td>
                                                 <td>
                                                     <div class="text-nowrap">Yiorgos Avraamu</div>
-                                                    <div class="small text-body-secondary text-nowrap"><span
-                                                            data-coreui-i18n="new">New</span> | <span
-                                                            data-coreui-i18n="registered">Registered: </span><span
+                                                    <div class="small text-body-secondary text-nowrap"><span>New</span>
+                                                        | <span>Registered: </span><span
                                                             data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 1, 10'}">Jan
                                                             1, 2020</span></div>
                                                 </td>
                                                 <td class="text-center">
                                                     <svg class="icon icon-xl">
-                                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/flag.svg#egy') }}"></use>
+                                                        <use
+                                                            xlink:href="{{ asset('assets/vendors/icons/svg/flag.svg#egy') }}">
+                                                        </use>
                                                     </svg>
                                                 </td>
                                                 <td>
@@ -873,35 +887,32 @@
                                                     </div>
                                                     <div class="progress progress-thin mt-1">
                                                         <div class="progress-bar bg-success-gradient"
-                                                            role="progressbar" style="width: 50%"
-                                                            aria-valuenow="50" aria-valuemin="0"
-                                                            aria-valuemax="100"></div>
+                                                            role="progressbar" style="width: 50%" aria-valuenow="50"
+                                                            aria-valuemin="0" aria-valuemax="100"></div>
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <div class="small text-body-secondary"
-                                                        data-coreui-i18n="lastLogin">Last login</div>
+                                                    <div class="small text-body-secondary">Last login</div>
                                                     <div class="fw-semibold text-nowrap"
                                                         data-coreui-i18n="relativeTime, { 'val': -10, 'range': 'seconds' }">
                                                         10 sec ago</div>
                                                 </td>
                                                 <td>
                                                     <div class="dropdown">
-                                                        <button
-                                                            class="btn btn-transparent p-0 dark:text-high-emphasis"
+                                                        <button class="btn btn-transparent p-0 dark:text-high-emphasis"
                                                             type="button" data-coreui-toggle="dropdown"
                                                             aria-haspopup="true" aria-expanded="false">
                                                             <svg class="icon">
-                                                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                                <use
+                                                                    xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#vvvvvv') }}">
+                                                                </use>
                                                             </svg>
                                                         </button>
                                                         <div class="dropdown-menu dropdown-menu-end"><a
-                                                                class="dropdown-item" href="#"
-                                                                data-coreui-i18n="info">Info</a><a
-                                                                class="dropdown-item" href="#"
-                                                                data-coreui-i18n="edit">Edit</a><a
-                                                                class="dropdown-item text-danger" href="#"
-                                                                data-coreui-i18n="delete">Delete</a></div>
+                                                                class="dropdown-item" href="#">Info</a><a
+                                                                class="dropdown-item" href="#">Edit</a><a
+                                                                class="dropdown-item text-danger"
+                                                                href="#">Delete</a></div>
                                                     </div>
                                                 </td>
                                             </tr>
@@ -915,14 +926,16 @@
                                                 <td>
                                                     <div class="text-nowrap">Avram Tarasios</div>
                                                     <div class="small text-body-secondary text-nowrap"><span
-                                                            data-coreui-i18n="recurring">Recurring</span> | <span
-                                                            data-coreui-i18n="registered">Registered: </span><span
+                                                            >Recurring</span> | <span
+                                                            >Registered: </span><span
                                                             data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 1, 10'}">Jan
                                                             1, 2020</span></div>
                                                 </td>
                                                 <td class="text-center">
                                                     <svg class="icon icon-xl">
-                                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/flag.svg#egy') }}"></use>
+                                                        <use
+                                                            xlink:href="{{ asset('assets/vendors/icons/svg/flag.svg#egy') }}">
+                                                        </use>
                                                     </svg>
                                                 </td>
                                                 <td>
@@ -943,7 +956,7 @@
                                                 </td>
                                                 <td>
                                                     <div class="small text-body-secondary"
-                                                        data-coreui-i18n="lastLogin">Last login</div>
+                                                        >Last login</div>
                                                     <div class="fw-semibold text-nowrap"
                                                         data-coreui-i18n="relativeTime, { 'val': -5, 'range': 'minutes' }">
                                                         5 minutes ago</div>
@@ -955,271 +968,24 @@
                                                             type="button" data-coreui-toggle="dropdown"
                                                             aria-haspopup="true" aria-expanded="false">
                                                             <svg class="icon">
-                                                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                                <use
+                                                                    xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#vvvvv') }}">
+                                                                </use>
                                                             </svg>
                                                         </button>
                                                         <div class="dropdown-menu dropdown-menu-end"><a
                                                                 class="dropdown-item" href="#"
-                                                                data-coreui-i18n="info">Info</a><a
+                                                                >Info</a><a
                                                                 class="dropdown-item" href="#"
-                                                                data-coreui-i18n="edit">Edit</a><a
+                                                                >Edit</a><a
                                                                 class="dropdown-item text-danger" href="#"
-                                                                data-coreui-i18n="delete">Delete</a></div>
+                                                                >Delete</a></div>
                                                     </div>
                                                 </td>
                                             </tr>
-                                            <tr class="align-middle">
-                                                <td class="text-center">
-                                                    <div class="avatar avatar-md"><img class="avatar-img"
-                                                            src="assets/img/avatars/3.jpg"
-                                                            alt="user@email.com"><span
-                                                            class="avatar-status bg-warning-gradient"></span></div>
-                                                </td>
-                                                <td>
-                                                    <div class="text-nowrap">Quintin Ed</div>
-                                                    <div class="small text-body-secondary text-nowrap"><span
-                                                            data-coreui-i18n="new">New</span> | <span
-                                                            data-coreui-i18n="registered">Registered: </span><span
-                                                            data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 1, 10'}">Jan
-                                                            1, 2020</span></div>
-                                                </td>
-                                                <td class="text-center">
-                                                    <svg class="icon icon-xl">
-                                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/flag.svg#egy') }}"></use>
-                                                    </svg>
-                                                </td>
-                                                <td>
-                                                    <div class="d-flex justify-content-between align-items-baseline">
-                                                        <div class="fw-semibold">50%</div>
-                                                        <div class="text-nowrap small text-body-secondary ms-3"><span
-                                                                data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 6, 11'}"></span>
-                                                            - <span
-                                                                data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 7, 10'}">
-                                                            </span></div>
-                                                    </div>
-                                                    <div class="progress progress-thin mt-1">
-                                                        <div class="progress-bar bg-warning-gradient"
-                                                            role="progressbar" style="width: 74%"
-                                                            aria-valuenow="74" aria-valuemin="0"
-                                                            aria-valuemax="100"></div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <div class="small text-body-secondary"
-                                                        data-coreui-i18n="lastLogin">Last login</div>
-                                                    <div class="fw-semibold text-nowrap"
-                                                        data-coreui-i18n="relativeTime, { 'val': -1, 'range': 'hours' }">
-                                                        1 hour ago</div>
-                                                </td>
-                                                <td>
-                                                    <div class="dropdown">
-                                                        <button
-                                                            class="btn btn-transparent p-0 dark:text-high-emphasis"
-                                                            type="button" data-coreui-toggle="dropdown"
-                                                            aria-haspopup="true" aria-expanded="false">
-                                                            <svg class="icon">
-                                                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                                            </svg>
-                                                        </button>
-                                                        <div class="dropdown-menu dropdown-menu-end"><a
-                                                                class="dropdown-item" href="#"
-                                                                data-coreui-i18n="info">Info</a><a
-                                                                class="dropdown-item" href="#"
-                                                                data-coreui-i18n="edit">Edit</a><a
-                                                                class="dropdown-item text-danger" href="#"
-                                                                data-coreui-i18n="delete">Delete</a></div>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                            <tr class="align-middle">
-                                                <td class="text-center">
-                                                    <div class="avatar avatar-md"><img class="avatar-img"
-                                                            src="assets/img/avatars/4.jpg"
-                                                            alt="user@email.com"><span
-                                                            class="avatar-status bg-secondary-gradient"></span></div>
-                                                </td>
-                                                <td>
-                                                    <div class="text-nowrap">Enéas Kwadwo</div>
-                                                    <div class="small text-body-secondary text-nowrap"><span
-                                                            data-coreui-i18n="new">New</span> | <span
-                                                            data-coreui-i18n="registered">Registered: </span><span
-                                                            data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 1, 10'}">Jan
-                                                            1, 2020</span></div>
-                                                </td>
-                                                <td class="text-center">
-                                                    <svg class="icon icon-xl">
-                                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/flag.svg#egy') }}"></use>
-                                                    </svg>
-                                                </td>
-                                                <td>
-                                                    <div class="d-flex justify-content-between align-items-baseline">
-                                                        <div class="fw-semibold">50%</div>
-                                                        <div class="text-nowrap small text-body-secondary ms-3"><span
-                                                                data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 6, 11'}"></span>
-                                                            - <span
-                                                                data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 7, 10'}">
-                                                            </span></div>
-                                                    </div>
-                                                    <div class="progress progress-thin mt-1">
-                                                        <div class="progress-bar bg-danger-gradient"
-                                                            role="progressbar" style="width: 98%"
-                                                            aria-valuenow="98" aria-valuemin="0"
-                                                            aria-valuemax="100"></div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <div class="small text-body-secondary"
-                                                        data-coreui-i18n="lastLogin">Last login</div>
-                                                    <div class="fw-semibold text-nowrap"
-                                                        data-coreui-i18n="relativeTime, { 'val': -1, 'range': 'weeks' }">
-                                                        Last month</div>
-                                                </td>
-                                                <td>
-                                                    <div class="dropdown">
-                                                        <button
-                                                            class="btn btn-transparent p-0 dark:text-high-emphasis"
-                                                            type="button" data-coreui-toggle="dropdown"
-                                                            aria-haspopup="true" aria-expanded="false">
-                                                            <svg class="icon">
-                                                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                                            </svg>
-                                                        </button>
-                                                        <div class="dropdown-menu dropdown-menu-end"><a
-                                                                class="dropdown-item" href="#"
-                                                                data-coreui-i18n="info">Info</a><a
-                                                                class="dropdown-item" href="#"
-                                                                data-coreui-i18n="edit">Edit</a><a
-                                                                class="dropdown-item text-danger" href="#"
-                                                                data-coreui-i18n="delete">Delete</a></div>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                            <tr class="align-middle">
-                                                <td class="text-center">
-                                                    <div class="avatar avatar-md"><img class="avatar-img"
-                                                            src="assets/img/avatars/5.jpg"
-                                                            alt="user@email.com"><span
-                                                            class="avatar-status bg-success"></span></div>
-                                                </td>
-                                                <td>
-                                                    <div class="text-nowrap">Agapetus Tadeáš</div>
-                                                    <div class="small text-body-secondary text-nowrap"><span
-                                                            data-coreui-i18n="new">New</span> | <span
-                                                            data-coreui-i18n="registered">Registered: </span><span
-                                                            data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 1, 10'}">Jan
-                                                            1, 2020</span></div>
-                                                </td>
-                                                <td class="text-center">
-                                                    <svg class="icon icon-xl">
-                                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/flag.svg#egy') }}"></use>
-                                                    </svg>
-                                                </td>
-                                                <td>
-                                                    <div class="d-flex justify-content-between align-items-baseline">
-                                                        <div class="fw-semibold">50%</div>
-                                                        <div class="text-nowrap small text-body-secondary ms-3"><span
-                                                                data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 6, 11'}"></span>
-                                                            - <span
-                                                                data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 7, 10'}">
-                                                            </span></div>
-                                                    </div>
-                                                    <div class="progress progress-thin mt-1">
-                                                        <div class="progress-bar bg-info-gradient"
-                                                            role="progressbar" style="width: 22%"
-                                                            aria-valuenow="22" aria-valuemin="0"
-                                                            aria-valuemax="100"></div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <div class="small text-body-secondary"
-                                                        data-coreui-i18n="lastLogin">Last login</div>
-                                                    <div class="fw-semibold text-nowrap"
-                                                        data-coreui-i18n="relativeTime, { 'val': -3, 'range': 'months' }">
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <div class="dropdown dropup">
-                                                        <button
-                                                            class="btn btn-transparent p-0 dark:text-high-emphasis"
-                                                            type="button" data-coreui-toggle="dropdown"
-                                                            aria-haspopup="true" aria-expanded="false">
-                                                            <svg class="icon">
-                                                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                                            </svg>
-                                                        </button>
-                                                        <div class="dropdown-menu dropdown-menu-end"><a
-                                                                class="dropdown-item" href="#"
-                                                                data-coreui-i18n="info">Info</a><a
-                                                                class="dropdown-item" href="#"
-                                                                data-coreui-i18n="edit">Edit</a><a
-                                                                class="dropdown-item text-danger" href="#"
-                                                                data-coreui-i18n="delete">Delete</a></div>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                            <tr class="align-middle">
-                                                <td class="text-center">
-                                                    <div class="avatar avatar-md"><img class="avatar-img"
-                                                            src="assets/img/avatars/6.jpg"
-                                                            alt="user@email.com"><span
-                                                            class="avatar-status bg-danger-gradient"></span></div>
-                                                </td>
-                                                <td>
-                                                    <div class="text-nowrap">Friderik Dávid</div>
-                                                    <div class="small text-body-secondary text-nowrap"><span
-                                                            data-coreui-i18n="new">New</span> | <span
-                                                            data-coreui-i18n="registered">Registered: </span><span
-                                                            data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 1, 10'}">Jan
-                                                            1, 2020</span></div>
-                                                </td>
-                                                <td class="text-center">
-                                                    <svg class="icon icon-xl">
-                                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/flag.svg#egy') }}"></use>
-                                                    </svg>
-                                                </td>
-                                                <td>
-                                                    <div class="d-flex justify-content-between align-items-baseline">
-                                                        <div class="fw-semibold">50%</div>
-                                                        <div class="text-nowrap small text-body-secondary ms-3"><span
-                                                                data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 6, 11'}"></span>
-                                                            - <span
-                                                                data-coreui-i18n-date="dateShortMonthName, { 'date': '2023, 7, 10'}">
-                                                            </span></div>
-                                                    </div>
-                                                    <div class="progress progress-thin mt-1">
-                                                        <div class="progress-bar bg-success-gradient"
-                                                            role="progressbar" style="width: 43%"
-                                                            aria-valuenow="43" aria-valuemin="0"
-                                                            aria-valuemax="100"></div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <div class="small text-body-secondary"
-                                                        data-coreui-i18n="lastLogin">Last login</div>
-                                                    <div class="fw-semibold text-nowrap"
-                                                        data-coreui-i18n="relativeTime, { 'val': -1, 'range': 'years' }">
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <div class="dropdown dropup">
-                                                        <button
-                                                            class="btn btn-transparent p-0 dark:text-high-emphasis"
-                                                            type="button" data-coreui-toggle="dropdown"
-                                                            aria-haspopup="true" aria-expanded="false">
-                                                            <svg class="icon">
-                                                                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
-                                                            </svg>
-                                                        </button>
-                                                        <div class="dropdown-menu dropdown-menu-end"><a
-                                                                class="dropdown-item" href="#"
-                                                                data-coreui-i18n="info">Info</a><a
-                                                                class="dropdown-item" href="#"
-                                                                data-coreui-i18n="edit">Edit</a><a
-                                                                class="dropdown-item text-danger" href="#"
-                                                                data-coreui-i18n="delete">Delete</a></div>
-                                                    </div>
-                                                </td>
-                                            </tr>
+
+
+
                                         </tbody>
                                     </table>
                                 </div>
@@ -1234,7 +1000,9 @@
                                         <div>
                                             <div class="fs-4 fw-semibold">26K <span class="fs-6 fw-normal">(-12.4%
                                                     <svg class="icon">
-                                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                        <use
+                                                            xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#vbvb') }}">
+                                                        </use>
                                                     </svg>)</span></div>
                                             <div data-coreui-i18n="users">Users</div>
                                         </div>
@@ -1243,7 +1011,9 @@
                                                 data-coreui-toggle="dropdown" aria-haspopup="true"
                                                 aria-expanded="false">
                                                 <svg class="icon">
-                                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                    <use
+                                                        xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#vvbvbv') }}">
+                                                    </use>
                                                 </svg>
                                             </button>
                                             <div class="dropdown-menu dropdown-menu-end"><a class="dropdown-item"
@@ -1265,24 +1035,26 @@
                                         <div>
                                             <div class="fs-4 fw-semibold">2.49% <span class="fs-6 fw-normal">(84.7%
                                                     <svg class="icon">
-                                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                        <use
+                                                            xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#eeee') }}">
+                                                        </use>
                                                     </svg>)</span></div>
-                                            <div data-coreui-i18n="conversionRate">Conversion Rate</div>
+                                            <div>Conversion Rate</div>
                                         </div>
                                         <div class="dropdown">
                                             <button class="btn btn-transparent text-white p-0" type="button"
                                                 data-coreui-toggle="dropdown" aria-haspopup="true"
                                                 aria-expanded="false">
                                                 <svg class="icon">
-                                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                    <use
+                                                        xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#bbbb') }}">
+                                                    </use>
                                                 </svg>
                                             </button>
                                             <div class="dropdown-menu dropdown-menu-end"><a class="dropdown-item"
-                                                    href="#" data-coreui-i18n="action">Action</a><a
-                                                    class="dropdown-item" href="#"
-                                                    data-coreui-i18n="anotherAction">Another action</a><a
-                                                    class="dropdown-item" href="#"
-                                                    data-coreui-i18n="somethingElseHere">Something else here</a></div>
+                                                    href="#">Action</a><a class="dropdown-item"
+                                                    href="#">Another action</a><a class="dropdown-item"
+                                                    href="#">Something else here</a></div>
                                         </div>
                                     </div>
                                     <div class="chart-wrapper mt-3" style="height:80px;">
@@ -1296,24 +1068,26 @@
                                         <div>
                                             <div class="fs-4 fw-semibold">44K <span class="fs-6 fw-normal">(-23.6%
                                                     <svg class="icon">
-                                                        <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                        <use
+                                                            xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#cccccc') }}">
+                                                        </use>
                                                     </svg>)</span></div>
-                                            <div data-coreui-i18n="sessions">Sessions</div>
+                                            <div>Sessions</div>
                                         </div>
                                         <div class="dropdown">
                                             <button class="btn btn-transparent text-white p-0" type="button"
                                                 data-coreui-toggle="dropdown" aria-haspopup="true"
                                                 aria-expanded="false">
                                                 <svg class="icon">
-                                                    <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#calculator') }}"></use>
+                                                    <use
+                                                        xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#xxxxxxx') }}">
+                                                    </use>
                                                 </svg>
                                             </button>
                                             <div class="dropdown-menu dropdown-menu-end"><a class="dropdown-item"
-                                                    href="#" data-coreui-i18n="action">Action</a><a
-                                                    class="dropdown-item" href="#"
-                                                    data-coreui-i18n="anotherAction">Another action</a><a
-                                                    class="dropdown-item" href="#"
-                                                    data-coreui-i18n="somethingElseHere">Something else here</a></div>
+                                                    href="#">Action</a><a class="dropdown-item"
+                                                    href="#">Another action</a><a class="dropdown-item"
+                                                    href="#">Something else here</a></div>
                                         </div>
                                     </div>
                                     <div class="chart-wrapper mt-3 mx-3" style="height:80px;">
