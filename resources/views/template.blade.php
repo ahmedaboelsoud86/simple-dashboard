@@ -10,7 +10,7 @@
         @include('partials._header_bar')
 
         <div class="body flex-grow-1">
-            <div class="container-lg px-4">
+            <div class="px-4">
                 <div class="fs-2 fw-semibold">Dashboard</div>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-4">

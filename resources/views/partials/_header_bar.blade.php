@@ -4,7 +4,7 @@
             onclick="coreui.Sidebar.getInstance(document.querySelector('#sidebar')).toggle()"
             style="margin-inline-start: -14px;">
             <svg class="icon icon-lg">
-                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#circle') }}"></use>
+                <use xlink:href="{{ asset('assets/vendors/icons/svg/free.svg#menu') }}"></use>
             </svg>
         </button>
         <form class="d-none d-sm-flex" role="search">

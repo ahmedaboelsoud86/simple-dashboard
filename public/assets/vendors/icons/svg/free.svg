@@ -83,6 +83,12 @@
 			S381.9,104.65,381.9,203.25z"/>
 
 </symbol>
+<symbol id="menu" viewBox="0 0 24 24">
+<title>menu</title>
+<path d="M3.75 4.5h16.5v1.5h-16.5v-1.5z"></path>
+<path d="M3.75 11.25h16.5v1.5h-16.5v-1.5z"></path>
+<path d="M3.75 18h16.5v1.5h-16.5v-1.5z"></path>
+</symbol>
 </defs>
 </svg>
 
